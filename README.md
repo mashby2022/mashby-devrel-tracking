@@ -9,10 +9,10 @@ I am senior studying Industrial and Systems Engineering with an interest in open
 💞️ I’m looking to collaborate on Kubernetes Event management 
 
 ### Some of my previous Conference Talks
-**Dec 2022 - Open Source in Finance Fourum NYC** -  [What's Community Got to Do with It? Navigating Open Source Contributions in the Finacial Industry](https://www.youtube.com/watch?v=UO1Rl8EHVmo)
+- **Dec 2022 - Open Source in Finance Fourum NYC** -  [What's Community Got to Do with It? Navigating Open Source Contributions in the Finacial Industry](https://www.youtube.com/watch?v=UO1Rl8EHVmo)
 
 
-**Oct 2022 - Spinnaker Summit @ Kubecon North America** - [Renaissance, Act 1: Building the Next Generation of the Spinnaker Community]( 
+- **Oct 2022 - Spinnaker Summit @ Kubecon North America** - [Renaissance, Act 1: Building the Next Generation of the Spinnaker Community]( 
 https://www.youtube.com/watch?v=N4ka2MuvTdg)
 
 ### Some of my blog posts 
@@ -21,5 +21,4 @@ https://www.youtube.com/watch?v=N4ka2MuvTdg)
 - [Going back to the ABC’s]( https://www.armory.io/blog/going-back-to-the-abcs/)
 - [Learning out Loud: KubeCon EU edition](https://www.armory.io/blog/learning-out-loud-kubecon-eu-edition/)
 
-### Some of my videos
 
