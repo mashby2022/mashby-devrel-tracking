@@ -1,5 +1,6 @@
-# mashby-devrel-tracking
+# About Me- Maria Ashby 
 ### 👋 Hi, I’m @mashby2022
+I am senior studying Industrial and Systems Engineering with an interest in open-source and cloud and data infrasture
 
 👀 I’m interested in Devops Engineering and Data Infrastruturce
 
