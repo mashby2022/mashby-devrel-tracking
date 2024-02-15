@@ -4,7 +4,7 @@ I'm a passionate Developer Advocate with a love for open-source , cloud infrastr
 
 👀 I’m interested in DevOps Engineering, Data Infrastructure, Machine Learning, MLOps
 
-🌱 I’m currently learning plug-in Development,Large Language Models (LLMs), Natural Language Processing (NLP), and MLOps.
+🌱 I’m currently learning about plug-in Development,Large Language Models (LLMs), Natural Language Processing (NLP), and MLOps.
 
 ### Some of my previous Conference Talks
 - **Dec 2023 GitOps Con EU 2023** - [Empowering Developer Productivity: A Deep Dive Into ArgoCD and Botkube Integration]( 
@@ -16,7 +16,11 @@ https://www.youtube.com/watch?v=N4ka2MuvTdg)
 - **Dec 2022 Open Source in Finance Forum NYC** -  [What's Community Got to Do with It? Navigating Open Source Contributions in the Financial Industry](https://www.youtube.com/watch?v=UO1Rl8EHVmo)
 
 - **Oct 2022 Spinnaker Summit @ Kubecon North America** -  [Renaissance, Act 1: Building the Next Generation of the Spinnaker Community](https://www.youtube.com/watch?v=N4ka2MuvTdg)
-    
+### Some of my workshops
+- **Jan 2024 O'Reilly Media** -  [Kubernetes Troubleshooting](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main?tab=readme-ov-file)
+
+- **February 2024 O'Reilly Media** -  [Fundamentals of Kubernetes Monitoring and Observability](https://github.com/mashby2022/Oreilly-monitoring-labs)
+
 ### Some of my blog posts 
 - [Command Line Magic: Simplify Your Life with Custom Aliases on Botkube](https://botkube.io/blog/command-line-magic-simplify-your-life-with-custom-kubernetes-kubectrl-aliases-on-botkube) 
 - [Reducing DevOps Burnout with Next-Gen Continuous Delivery: Progressive Delivery](https://medium.com/@mashbythedev/reducing-devops-burnout-with-next-gen-continuous-delivery-progressive-delivery-805e8dc7b342)
