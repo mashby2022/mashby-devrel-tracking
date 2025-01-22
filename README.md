@@ -21,7 +21,10 @@ https://www.youtube.com/watch?v=N4ka2MuvTdg)
 
 - **February 2024 O'Reilly Media** -  [Fundamentals of Kubernetes Monitoring and Observability](https://github.com/mashby2022/Oreilly-monitoring-labs)
 
-### Some of my blog posts 
+### Tutorials and Documentation
+- [Gaia Developer Handbook](https://developer.gaianet.ai/)
+  
+### Blog Post
 - [Command Line Magic: Simplify Your Life with Custom Aliases on Botkube](https://botkube.io/blog/command-line-magic-simplify-your-life-with-custom-kubernetes-kubectrl-aliases-on-botkube) 
 - [Reducing DevOps Burnout with Next-Gen Continuous Delivery: Progressive Delivery](https://medium.com/@mashbythedev/reducing-devops-burnout-with-next-gen-continuous-delivery-progressive-delivery-805e8dc7b342)
 - [Streamlining GitOps with the Botkube Flux Plugin](https://botkube.io/blog/streamlining-gitops-with-the-botkube-flux-plugin) 
