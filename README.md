@@ -1,6 +1,6 @@
 # About Me- Maria Ashby 
 ### 👋 Hi, I’m @mashby2022
-I'm a passionate Developer Advocate with a love for open-source tooling,data,and Web3 technologies.
+I'm a passionate Developer Advocate and technical writer with a love for open-source tooling,data,and Web3 technologies.
 
 👀 I’m interested in Machine Learning, Web3, and Data infrastructure. 
 
