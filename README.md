@@ -6,10 +6,10 @@ I'm a passionate Developer Advocate with a love for open-source tooling,data,and
 
 🌱 I’m currently learning about Agentic Workflow, Large Language Models (LLMs),Zero Knowledge Proofs, and Decentralized Apps.
 
-### Tutorials and Documentation
+### Documentation
 - [Gaia Developer Handbook](https://developer.gaianet.ai/)
   
-### Blog Posts
+### Tutorials
 - [Command Line Magic: Simplify Your Life with Custom Aliases on Botkube](https://botkube.io/blog/command-line-magic-simplify-your-life-with-custom-kubernetes-kubectrl-aliases-on-botkube) 
 - [Reducing DevOps Burnout with Next-Gen Continuous Delivery: Progressive Delivery](https://medium.com/@mashbythedev/reducing-devops-burnout-with-next-gen-continuous-delivery-progressive-delivery-805e8dc7b342)
 - [Streamlining GitOps with the Botkube Flux Plugin](https://botkube.io/blog/streamlining-gitops-with-the-botkube-flux-plugin) 
@@ -20,13 +20,13 @@ I'm a passionate Developer Advocate with a love for open-source tooling,data,and
 - [Introducing Sandbox Clusters](https://medium.com/@mashbythedev/introducing-sandbox-clusters)
 - [Streamlining GitOps with the Botkube Flux Plugin](https://medium.com/kubeshop-i/streamlining-gitops-with-the-botkube-flux-plugin-ee54732d1984)
 - [Integrating CDEvents with Spinnaker](https://cd.foundation/blog/2022/10/21/integrating-cdevents-with-spinnaker/)
-- ### Some of my workshops
+  
+ ### Some of my workshops
 - **Jan 2024 O'Reilly Media** -  [Kubernetes Troubleshooting](https://github.com/mashby2022/Kubernetes-troubleshooting-Oreilly/tree/main?tab=readme-ov-file)
 
 - **February 2024 O'Reilly Media** -  [Fundamentals of Kubernetes Monitoring and Observability](https://github.com/mashby2022/Oreilly-monitoring-labs)
 
 ### Some of my previous Conference Talks
-
 - **July 2024 Devrelcon NYC** - [How to design technical content with inclusivity in mind](https://youtu.be/7hzu8dmBUr8?si=FfJtwmqHRVbmcP8_)
 - **Dec 2023 GitOps Con EU 2023** - [Empowering Developer Productivity: A Deep Dive Into ArgoCD and Botkube Integration]( 
 https://www.youtube.com/watch?v=N4ka2MuvTdg)
